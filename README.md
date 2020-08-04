@@ -48,5 +48,3 @@ Description: Employee resource is deleted.
 * <a href="https://reflectoring.io/bean-validation-with-spring-boot/">All You Need To Know About Bean Validation With Spring Boot</a>
 * <a href="https://www.baeldung.com/spring-boot-bean-validation">Validation in Spring Boot</a>
 * <a href="https://stackoverflow.com/questions/48614773/spring-boot-validation-annotations-valid-and-notblank-not-working">Spring boot validation annotations @Valid and @NotBlank not working</a>
-* <a href=""></a>
-* <a href=""></a>
