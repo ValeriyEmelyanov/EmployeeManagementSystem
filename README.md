@@ -9,6 +9,7 @@ This is a training project: CRUD RESTFul APIs for a Simple Employee Management S
 * Spring JPA
 * H2 Embedded Database
 * Maven
+* JUnit 5
 
 ### API Description
 
@@ -45,6 +46,8 @@ Description: Employee resource is deleted.
 #### Usefull links
 * <a href="https://attacomsian.com/blog/spring-data-jpa-h2-database">Spring Data JPA with H2 DataBase and Spring Boot</a>
 * <a href="https://www.javaguides.net/2019/08/spring-boot-crud-rest-api-spring-data-jpa-h2-database-example.html">Spring Boot CRUD REST API + Spring Data JPA + H2 Database Example</a>
+* <a href="https://www.javaguides.net/2018/09/spring-boot-2-rest-apis-integration-testing.html">Spring Boot 2 CRUD REST APIs Integration Testing</a>
 * <a href="https://reflectoring.io/bean-validation-with-spring-boot/">All You Need To Know About Bean Validation With Spring Boot</a>
 * <a href="https://www.baeldung.com/spring-boot-bean-validation">Validation in Spring Boot</a>
 * <a href="https://stackoverflow.com/questions/48614773/spring-boot-validation-annotations-valid-and-notblank-not-working">Spring boot validation annotations @Valid and @NotBlank not working</a>
+* <a href="https://stackoverflow.com/questions/39213531/spring-boot-test-unable-to-inject-testresttemplate-and-mockmvc">spring boot test unable to inject TestRestTemplate and MockMvc</a>
